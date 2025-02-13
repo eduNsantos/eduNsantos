@@ -4,7 +4,7 @@
 
 📍 Santo André - SP, Brasil  
 🔹 5+ anos de experiência em desenvolvimento  
-🔹 Tech Lead há 2 anos, liderando uma equipe de 3 desenvolvedores  
+🔹 Tech Lead há 2 anos, liderando uma equipe de 3 desenvolvedores (+2 estagiários)
 
 ---
 
@@ -42,6 +42,6 @@
 
 ## 📈 Novos Desafios
 
-Atualmente, estou interessado em oportunidades como **Tech Lead**, **Backend Developer** ou **Fullstack Developer**. Também estou explorando **dropshipping** como um novo desafio empreendedor.
+Atualmente, estou interessado em oportunidades como **Tech Lead**, **Backend Developer** ou **Fullstack Developer**.
 
-📫 **Contato:** [LinkedIn](#) | [GitHub](https://github.com/seuusuario)
+📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/eduardo-f-n-santos/) | [GitHub](https://github.com/edunsantos)
