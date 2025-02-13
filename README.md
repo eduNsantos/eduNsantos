@@ -1,16 +1,47 @@
-## Hi there 👋
+# Eduardo Ferreira Nascimento Santos
 
-<!--
-**eduNsantos/eduNsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **Tech Lead | Backend & Fullstack Developer**
 
-Here are some ideas to get you started:
+📍 Santo André - SP, Brasil  
+🔹 5+ anos de experiência em desenvolvimento  
+🔹 Tech Lead há 2 anos, liderando uma equipe de 3 desenvolvedores  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### 🚀 Backend
+- **Node.js** (Express, TypeScript, Sequelize, TypeORM)
+- **PHP** (Experiência sólida)
+- **SQL** (PostgreSQL, MSSQL, MySQL)
+- **Redis** (Cache e mensageria)
+- **RabbitMQ** (Fila de mensagens)
+- **Docker** (Ambientes isolados e escaláveis)
+
+### 🎨 Frontend
+- **React** (Vite, Bootstrap, ES6, TypeScript)
+- **JQuery** (Experiência anterior)
+
+### 📡 Infra & Arquitetura
+- **WebSockets** (Comunicação em tempo real)
+- **Nginx** (Proxy reverso e otimização)
+- **WSL** (Ambiente de desenvolvimento no Windows 11)
+- **Baileys + Cloud API** (Assistente no WhatsApp)
+
+---
+
+## 🚀 Projetos e Experiências
+
+- Desenvolvimento de assistentes virtuais para interações via WhatsApp, incluindo interpretação e resposta por áudio.
+- Estruturação de um sistema robusto utilizando **Sequelize** e **TypeORM** com PostgreSQL.
+- Configuração de ambientes Docker otimizados, garantindo segurança e desempenho.
+- Integração de WebSockets para comunicação em tempo real.
+- Automação de processos no **Jira**, otimizando o fluxo de trabalho da equipe.
+
+---
+
+## 📈 Novos Desafios
+
+Atualmente, estou interessado em oportunidades como **Tech Lead**, **Backend Developer** ou **Fullstack Developer**. Também estou explorando **dropshipping** como um novo desafio empreendedor.
+
+📫 **Contato:** [LinkedIn](#) | [GitHub](https://github.com/seuusuario)
